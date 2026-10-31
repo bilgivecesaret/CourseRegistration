@@ -38,6 +38,24 @@ Bu profil uygulamayı `https://localhost:7030` ve `http://localhost:5020` adresl
 
 Başvuruda ASP.NET Core MVC, ASP.NET Core API veya Blazor kurslarından biri seçilebilir.
 
+## Ekran Görüntüleri
+
+### Ana sayfa
+
+![Ana sayfa](ScreenShot/HomePage.png)
+
+### Başvuru formu
+
+![Başvuru formu](ScreenShot/Apply.png)
+
+### Başvurular
+
+![Başvuru listesi](ScreenShot/Applications.png)
+
+### Geri bildirim
+
+![Geri bildirim](ScreenShot/FeedBack.png)
+
 ## Teknolojiler
 
 - ASP.NET Core MVC
